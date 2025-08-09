@@ -360,6 +360,11 @@ text-align: center;
 .sec-img video{
     width: 70vw;
 }
+
+nav{
+    max-width:80vw;
+}
     
 }
+
 
