@@ -7,7 +7,7 @@
 
 
 .main{
-    background-image: url("images/bg.jpg");
+    background-image: url("bg.jpg");
     height: 70vh;
     position: relative;
     background-position: center center;
@@ -362,3 +362,4 @@ text-align: center;
 }
     
 }
+
